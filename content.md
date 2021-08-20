@@ -1,3 +1,5 @@
+![Some KF94 masks. Brands pictured are Bluna Face Fit, BOTN KF94 large, and a masklab "KF-style" mask (not certified KF94)..](media/kf94_style_masks.jpg)
+
 **KF94** is a South Korean general-public mask standard. Most KF94 masks feature a boat-style design and attach to the face using ear loops.
 
 ## See also
