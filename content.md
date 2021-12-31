@@ -6,6 +6,8 @@ KF94 masks are certified by the [South Korean Ministry of Food and Drug Safety](
 
 In addition to KF94, in [Korea there are also "KF80" masks](https://www.mfds.go.kr/eng/brd/m_75/view.do?seq=35&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1), which meet a less rigorous filtration standard.
 
+![In addition to the iconic boat style (sometimes called "3D") KF94 design, there is also a bifold ("2D") KF94 design.](media/2d-KF94-design.JPG)
+
 ## External links
 
 -   [Video overview of FAQs on wearing K94](https://www.youtube.com/watch?v=_In-nBP6WkQ), including **how to get a good fit with a KF94**, how long you wear one & how to stop glasses from fogging up.
