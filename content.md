@@ -16,7 +16,7 @@ The [3M Aura](/3M_Aura) is a N95 respirator with a boat-style design akin to the
 
 ![In addition to the iconic boat style (sometimes called "3D") KF94 design, there is also a bifold ("2D") KF94 design.](media/2d-KF94-design.JPG)
 
-## External links
+## More on KF94 masks
 
 -   [Video overview of FAQs on wearing K94](https://www.youtube.com/watch?v=_In-nBP6WkQ), including **how to get a good fit with a KF94**, how long you wear one & how to stop glasses from fogging up.
 -   [Video overview of what KF94 masks are and how they differ from KN95 masks](https://www.youtube.com/watch?app=desktop&v=hf4fAujzLL0), from Be Healthy USA, a US distributor of KF94 masks.
@@ -25,7 +25,10 @@ The [3M Aura](/3M_Aura) is a N95 respirator with a boat-style design akin to the
 -   [Video demonstrating the South Korean KF94 distribution and rationing system](https://www.youtube.com/watch?app=desktop&v=katglAKrROI) during the early COVID pandemic (March 2020).
 -   [Guide to verifying authenticity of KF94 masks](https://overseas.mofa.go.kr/my-en/brd/m_21422/view.do?seq=110) from the South Korean Ministry of Food and Drug Safety.
 
-## See also
+<!-- -->
 
 -   Aaron Collins (who has a background in [aerosol](/Aerosol) science) has [a number of videos featuring reviews](https://www.youtube.com/watch?v=WE5Uo3F2TdU) and independent aerosol penetration tests of KF94 respirators. See [Aaron Collin's YouTube channel](https://www.youtube.com/user/coll0412/videos).
+
+## See also
+
 -   **[List of respirators](/List_of_respirators)** for information on other kinds of respirators & masks
