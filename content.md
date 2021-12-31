@@ -2,7 +2,7 @@
 
 **KF94** is a South Korean general-public mask standard. Most KF94 masks feature a boat-style design and attach to the face using ear loops. The "KF" stands for "**K**orea **F**ilter."
 
-KF94 masks are certified by the [South Korean Ministry of Food and Drug Safety](https://mfds.go.kr/eng/brd/m_65/view.do?seq=11&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1) in a manner similar to how the US-based NIOSH certifies N95 respirators. KF94 are [not considered equivalent to US N95](https://multimedia.3m.com/mws/media/1793278O/3m-anz-2020-respiratory-protection-faq-healthcare.pdf); a different Korean standard, "1st class" (KMOEL-2017-64) is more like the NIOSH N95 standard. K94 is a general-public mask standard, not designed for industrial or occupational use like NIOSH N95.
+KF94 masks are certified by the [South Korean Ministry of Food and Drug Safety](https://mfds.go.kr/eng/brd/m_65/view.do?seq=11&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1) in a manner similar to how the US-based NIOSH certifies N95 respirators. KF94 are [not exactly equivalent to US N95](https://multimedia.3m.com/mws/media/1793278O/3m-anz-2020-respiratory-protection-faq-healthcare.pdf); a different Korean standard, "1st class" (KMOEL-2017-64) is more like the NIOSH N95 standard. K94 is a *general-public* mask standard, not designed for industrial or occupational use like NIOSH N95. For instance, [there are KF94 masks available for children](https://www.youtube.com/watch?v=A88AGnN-nwI), but in the US there are no official NIOSH-certified N95s for children, as NIOSH is for *occupational* safety (the "O").
 
 In addition to KF94, in [Korea there are also "KF80" masks](https://www.mfds.go.kr/eng/brd/m_75/view.do?seq=35&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1), which meet a less rigorous filtration standard.
 
@@ -16,6 +16,7 @@ The [3M Aura](/3M_Aura) is a N95 respirator with a boat-style design akin to the
 -   [Video overview of what KF94 masks are and how they differ from KN95 masks](https://www.youtube.com/watch?app=desktop&v=hf4fAujzLL0), from Be Healthy USA, a US distributor of KF94 masks.
 -   ["Coronavirus FAQ: Why Am I Suddenly Hearing So Much About KF94 Masks?" ](https://www.npr.org/sections/goatsandsoda/2021/01/22/959683338/coronavirus-faq-why-am-i-suddenly-hearing-so-much-about-kf94-masks)- NPR article on KF94 masks from Jan. 2020.
 -   [About KF94](https://www.mfds.go.kr/eng/brd/m_75/view.do?seq=35&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1), on the South Korean Ministry of Food and Drug Safety website.
+-   [Video demonstrating the South Korean KF94 distribution and rationing system](https://www.youtube.com/watch?app=desktop&v=katglAKrROI) during the early COVID pandemic (March 2020).
 
 ## See also
 
