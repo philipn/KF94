@@ -2,7 +2,7 @@
 
 **KF94** is a South Korean general-public mask standard. Most KF94 masks feature a boat-style design and attach to the face using ear loops. The "KF" stands for "**K**orea **F**ilter."
 
-KF94s are made in two form factors: the classic "boat style" (sometimes called "3D") design and a bifold (sometimes called "2D") design.
+KF94s are made in two form factors: the classic "boat style" (sometimes called "3D") design and a bifold (sometimes called "2D") design. All certified KF94 masks are made in South Korea.
 
 ![Several individuals wearing KF94 masks while meeting South Korean presidential candidate  Hong Joon-pyo on September 19, 2021. Photo [CC-BY-SA 고려](https://commons.wikimedia.org/wiki/File:Hong_Joon-pyo,_Bae_Hyun-jin_in_Jamsil_Saemaeul_Market_\(1\).jpg).](media/Hong_Joon-pyo,_Bae_Hyun-jin_in_Jamsil_Saemaeul_Market.jpg)
 
