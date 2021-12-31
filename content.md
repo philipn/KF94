@@ -39,6 +39,12 @@ K94 masks have a particle filtration efficiency of at least 94% using a sodium c
 <figcaption>Details of the KF80, KF94 and KF99 performance standards <a href="https://www.mfds.go.kr/brd/m_578/down.do?brd_id=plc0159&amp;seq=41851&amp;data_tp=A&amp;file_seq=1">from the South Korean MFDS</a>.</figcaption>
 </figure>
 
+## Where to buy KF94
+
+As all certified KF94 must be made in South Korea, KF94 must be imported into countries other than South Korea. In the United States, online Korean beauty stores and Korean grocery stores (such as H Mart) often carry KF94.
+
+Aaron Collins maintains a list of reliable sources for online KF94 purchase in his YouTube videos - [see the video description here and elsewhere](https://www.youtube.com/watch?v=WE5Uo3F2TdU&t=637s). He also has a [list of sources for kids KF94 masks](https://www.youtube.com/watch?v=A88AGnN-nwI). Online retailers such as Amazon stock KF94s but [due to commingled inventory](https://www.redpoints.com/blog/amazon-commingled-inventory-management/), counterfeit or inauthentic KF94s may be shipped.
+
 ## See also
 
 -   **[List of respirators](/List_of_respirators)** for information on other kinds of respirators & masks.
