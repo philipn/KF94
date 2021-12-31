@@ -2,6 +2,10 @@
 
 **KF94** is a South Korean general-public mask standard. Most KF94 masks feature a boat-style design and attach to the face using ear loops. The "KF" stands for "**K**orea **F**ilter."
 
+KF94s are made in two designs, the classic "boat style" (sometimes called "3D") design and a bifold (sometimes called "2D") design.
+
+![KF94 style masks worn by WNBA championship winning team-members at the White House. Official White House photo by Adam Schultz, US government work in public domain, August 23, 2021.](media/white-house-kf94-seattle-storm-2021-8-23.jpg)
+
 KF94 masks are certified by the [South Korean Ministry of Food and Drug Safety](https://mfds.go.kr/eng/brd/m_65/view.do?seq=11&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1) in a manner similar to how the US-based NIOSH certifies N95 respirators. KF94 are [not exactly equivalent to US N95](https://multimedia.3m.com/mws/media/1793278O/3m-anz-2020-respiratory-protection-faq-healthcare.pdf); a different Korean standard, "1st class" (KMOEL-2017-64) is more like the NIOSH N95 standard. K94 is a *general-public* mask standard, not designed for industrial or occupational use like NIOSH N95. For instance, [there are KF94 masks available for children](https://www.youtube.com/watch?v=A88AGnN-nwI), but in the US there are no official NIOSH-certified N95s for children, as NIOSH is for *occupational* safety (the "O").
 
 In addition to KF94, in [Korea there are also "KF80" masks](https://www.mfds.go.kr/eng/brd/m_75/view.do?seq=35&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1), which meet a less rigorous filtration standard.
