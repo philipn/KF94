@@ -2,7 +2,7 @@
 
 **KF94** is a South Korean general-public mask standard. Most KF94 masks feature a boat-style design and attach to the face using ear loops. The "KF" stands for "**K**orea **F**ilter."
 
-KF94s are made in two designs, the classic "boat style" (sometimes called "3D") design and a bifold (sometimes called "2D") design.
+KF94s are made in two form factors: the classic "boat style" (sometimes called "3D") design and a bifold (sometimes called "2D") design.
 
 ![Several individuals wearing KF94 masks while meeting South Korean presidential candidate  Hong Joon-pyo on September 19, 2021. Photo [CC-BY-SA 고려](https://commons.wikimedia.org/wiki/File:Hong_Joon-pyo,_Bae_Hyun-jin_in_Jamsil_Saemaeul_Market_\(1\).jpg).](media/Hong_Joon-pyo,_Bae_Hyun-jin_in_Jamsil_Saemaeul_Market.jpg)
 
@@ -23,6 +23,7 @@ The [3M Aura](/3M_Aura) is a N95 respirator with a boat-style design akin to the
 -   ["Coronavirus FAQ: Why Am I Suddenly Hearing So Much About KF94 Masks?" ](https://www.npr.org/sections/goatsandsoda/2021/01/22/959683338/coronavirus-faq-why-am-i-suddenly-hearing-so-much-about-kf94-masks)- NPR article on KF94 masks from Jan. 2020.
 -   [About KF94](https://www.mfds.go.kr/eng/brd/m_75/view.do?seq=35&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1), on the South Korean Ministry of Food and Drug Safety website.
 -   [Video demonstrating the South Korean KF94 distribution and rationing system](https://www.youtube.com/watch?app=desktop&v=katglAKrROI) during the early COVID pandemic (March 2020).
+-   [Guide to verifying authenticity of KF94 masks](https://overseas.mofa.go.kr/my-en/brd/m_21422/view.do?seq=110) from the South Korean Ministry of Food and Drug Safety.
 
 ## See also
 
