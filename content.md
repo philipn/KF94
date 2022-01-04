@@ -33,7 +33,7 @@ The [3M Aura](/3M_Aura) is a N95 respirator with a boat-style design akin to the
 
 The technical details of the KF94 standard can be found on the South Korean Ministry of Food and Drug Safety website (in Korean). An [English-language summary document prepared by the South Korean MFDS](https://www.mfds.go.kr/brd/m_578/down.do?brd_id=plc0159&seq=41851&data_tp=A&file_seq=1) is available.
 
-K94 masks have a particle filtration efficiency of at least 94% using a sodium chloride and paraffin oil aerosol and a mean total inward leakage of less than 11% across a panel of test subjects. While the standard only calls for a PFE of 94%, [independent tests of many KF94 masks show they almost always have a higher PFE, often in the 98+% range](https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/edit).
+K94 masks have a particle filtration efficiency of at least 94% using a sodium chloride and paraffin oil aerosol and a mean total inward leakage of less than 11% across a panel of test subjects. While the standard only calls for a particle filtration efficiency of 94%, [independent tests of many KF94 masks show they almost always have a higher PFE, often in the 98+% range](https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/edit).
 
 <figure class="wide"><img src="media/kf94-standard-from-document.png">
 <figcaption>Details of the KF80, KF94 and KF99 performance standards <a href="https://www.mfds.go.kr/brd/m_578/down.do?brd_id=plc0159&amp;seq=41851&amp;data_tp=A&amp;file_seq=1">from the South Korean MFDS</a>.</figcaption>
@@ -43,7 +43,7 @@ K94 masks have a particle filtration efficiency of at least 94% using a sodium c
 
 As all certified KF94 must be made in South Korea, KF94 must be imported into countries other than South Korea. In the United States, online Korean beauty stores and Korean grocery stores (such as H Mart) often carry KF94.
 
-Aaron Collins maintains a list of reliable sources for online KF94 purchase in his YouTube videos - [see the video description here and elsewhere](https://www.youtube.com/watch?v=WE5Uo3F2TdU&t=637s). He also has a [list of sources for kids KF94 masks](https://www.youtube.com/watch?v=A88AGnN-nwI). Online retailers such as Amazon stock KF94s but [due to commingled inventory](https://www.redpoints.com/blog/amazon-commingled-inventory-management/), counterfeit or inauthentic KF94s may be shipped.
+Aaron Collins maintains a list of reliable sources for online KF94 purchase in his YouTube videos - [see the video description here and elsewhere](https://www.youtube.com/watch?v=WE5Uo3F2TdU&t=637s). He also has a [list of sources for kids KF94 masks](https://www.youtube.com/watch?v=A88AGnN-nwI). Large online retailers such as Amazon stock KF94s but [due to commingled inventory](https://www.redpoints.com/blog/amazon-commingled-inventory-management/), counterfeit or inauthentic KF94s may be shipped.
 
 ## See also
 
