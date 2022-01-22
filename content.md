@@ -47,6 +47,14 @@ As all certified KF94 must be made in South Korea, KF94 must be imported into co
 
 Aaron Collins maintains a list of reliable sources for online KF94 purchase in his YouTube videos - [see the video description here and elsewhere](https://www.youtube.com/watch?v=WE5Uo3F2TdU&t=637s). He also has a [list of sources for kids KF94 masks](https://www.youtube.com/watch?v=A88AGnN-nwI). Large online retailers such as Amazon stock KF94s but [due to commingled inventory](https://www.redpoints.com/blog/amazon-commingled-inventory-management/), counterfeit or inauthentic KF94s may be shipped.
 
+## How to verify authenticity of KF94
+
+Masks marked clearly as "KF94" and sold from South Korea directly are likely authentic, as the Korean FDA regulates KF94 sales in South Korea. If purchasing from a reseller outside of South Korea, consider the reputation of the seller. Does the seller regularly import products from South Korea and have a good reputation? E.g. many online South Korea beauty stores are reputable sources for K94 masks.
+
+You can [verify a KF94 mask directly with the South Korean FDA on their website](https://nedrug.mfds.go.kr/pbp/CCBCC01/getList). The website is in Korean and requires copying & pasting Korean characters from the mask. A [step by step process of how to do this, even if you don't speak Korean, can be found here](https://twitter.com/hellokidneyMD/status/1478601744447725570).
+
+Beware of buying products on large online retailers such as Amazon, as they may sell "KF94" masks that are not actually KF94 in South Korea - and are instead e.g. Chinese-made products. Due to [commingled inventory](https://www.redpoints.com/blog/amazon-commingled-inventory-management/), inauthentic KF94s may be shipped even when the listed product is authentic - but this is more rare.
+
 ## See also
 
 -   **[List of respirators](/List_of_respirators)** for information on other kinds of respirators & masks.
