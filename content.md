@@ -35,6 +35,8 @@ The technical details of the KF94 standard can be found on the South Korean Mini
 
 K94 masks have a particle filtration efficiency of at least 94% using a sodium chloride and paraffin oil aerosol and a mean total inward leakage of less than 11% across a panel of test subjects. While the standard only calls for a particle filtration efficiency of 94%, [independent tests of many KF94 masks show they almost always have a higher PFE, often in the 98+% range](https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/edit).
 
+The KF94 and KF99 standards [were created after the 2009 swine flu pandemic](https://overseas.mofa.go.kr/hk-en/brd/m_1495/down.do?brd_id=8158&seq=761355&data_tp=A&file_seq=2) (Pandemic Influenza A/H1N1).
+
 <figure class="wide"><img src="media/kf94-standard-from-document.png">
 <figcaption>Details of the KF80, KF94 and KF99 performance standards <a href="https://www.mfds.go.kr/brd/m_578/down.do?brd_id=plc0159&amp;seq=41851&amp;data_tp=A&amp;file_seq=1">from the South Korean MFDS</a>.</figcaption>
 </figure>
