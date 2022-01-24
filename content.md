@@ -23,7 +23,6 @@ The [3M Aura](/3M_Aura) is a N95 respirator with a boat-style design akin to the
 -   ["Coronavirus FAQ: Why Am I Suddenly Hearing So Much About KF94 Masks?"](https://www.npr.org/sections/goatsandsoda/2021/01/22/959683338/coronavirus-faq-why-am-i-suddenly-hearing-so-much-about-kf94-masks) - NPR article on KF94 masks from Jan. 2020.
 -   [About KF94](https://www.mfds.go.kr/eng/brd/m_75/view.do?seq=35&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1), on the South Korean Ministry of Food and Drug Safety website.
 -   [Video demonstrating the South Korean KF94 distribution and rationing system](https://www.youtube.com/watch?app=desktop&v=katglAKrROI) during the early COVID pandemic (March 2020).
--   [Guide to verifying authenticity of KF94 masks](https://overseas.mofa.go.kr/my-en/brd/m_21422/view.do?seq=110) from the South Korean Ministry of Food and Drug Safety.
 
 <!-- -->
 
@@ -35,7 +34,7 @@ The technical details of the KF94 standard can be found on the South Korean Mini
 
 K94 masks have a particle filtration efficiency of at least 94% using a sodium chloride and paraffin oil aerosol and a mean total inward leakage of less than 11% across a panel of test subjects. While the standard only calls for a particle filtration efficiency of 94%, [independent tests of many KF94 masks show they almost always have a higher PFE, often in the 98+% range](https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/edit).
 
-The KF94 and KF99 standards [were created after the 2009 swine flu pandemic](https://overseas.mofa.go.kr/hk-en/brd/m_1495/down.do?brd_id=8158&seq=761355&data_tp=A&file_seq=2) (Pandemic Influenza A/H1N1) as a general-population mask standard for use during future pandemics as well as for [air quality issues such as Yellow Dust](https://english.seoul.go.kr/policy/welfare-health-security/measures-in-case-of-yellow-dust/).
+The KF94 and KF99 standards [were created after the 2009 swine flu pandemic](https://overseas.mofa.go.kr/hk-en/brd/m_1495/down.do?brd_id=8158&seq=761355&data_tp=A&file_seq=2) (Pandemic Influenza A/H1N1) as a general-population mask standard for use during future pandemics as well as for [air quality issues such as Yellow Dust](https://english.seoul.go.kr/policy/welfare-health-security/measures-in-case-of-yellow-dust/).
 
 <figure class="wide"><img src="media/kf94-standard-from-document.png">
 <figcaption>Details of the KF80, KF94 and KF99 performance standards <a href="https://www.mfds.go.kr/brd/m_578/down.do?brd_id=plc0159&amp;seq=41851&amp;data_tp=A&amp;file_seq=1">from the South Korean MFDS</a>.</figcaption>
@@ -51,7 +50,7 @@ Aaron Collins maintains a list of reliable sources for online KF94 purchase in h
 
 Masks marked clearly as "KF94" and sold from South Korea directly are likely authentic, as the Korean FDA regulates KF94 sales in South Korea. If purchasing from a reseller outside of South Korea, consider the reputation of the seller. Does the seller regularly import products from South Korea and have a good reputation? E.g. many online South Korea beauty stores are reputable sources for K94 masks.
 
-You can [verify a KF94 mask directly with the South Korean FDA on their website](https://nedrug.mfds.go.kr/pbp/CCBCC01/getList). The website is in Korean and requires copying & pasting Korean characters from the mask. A [step by step process of how to do this, even if you don't speak Korean, can be found here](https://twitter.com/hellokidneyMD/status/1478601744447725570).
+You can [verify a KF94 mask directly with the South Korean FDA on their website](https://nedrug.mfds.go.kr/pbp/CCBCC01/getList). The website is in Korean and requires copying & pasting Korean characters from the mask. A [step by step process of how to do this, even if you don't speak Korean, can be found here](https://overseas.mofa.go.kr/my-en/brd/m_21422/view.do?seq=110).
 
 Beware of buying products on large online retailers such as Amazon, as they may sell "KF94" masks that are not actually KF94 in South Korea - and are instead e.g. Chinese-made products. Due to [commingled inventory](https://www.redpoints.com/blog/amazon-commingled-inventory-management/), inauthentic KF94s may be shipped even when the listed product is authentic - but this is more rare.
 
